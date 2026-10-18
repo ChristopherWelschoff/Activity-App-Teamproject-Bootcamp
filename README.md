@@ -56,6 +56,8 @@ Activity Planner is a user-friendly application designed for outdoor enthusiasts
 
 ---
 
+## Deployment
+
 ## ⌨️ Developer
 
 - [Emilie Brandt](https://github.com/emiliebrandt98)
