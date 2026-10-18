@@ -56,6 +56,10 @@ Activity Planner is a user-friendly application designed for outdoor enthusiasts
 
 ---
 
+## Note
+
+Meal Mate is designed **mobile-first**. It is meant to be used on a phone, so the layout is not optimized for large desktop screens yet.
+
 ## Deployment
 
 [Activity App](https://activity-pu61uh37k-christopherwelschoffs-projects.vercel.app) Current State after 2 Weeks
