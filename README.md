@@ -58,6 +58,8 @@ Activity Planner is a user-friendly application designed for outdoor enthusiasts
 
 ## Deployment
 
+[Activity App](https://activity-pu61uh37k-christopherwelschoffs-projects.vercel.app)
+
 ## ⌨️ Developer
 
 - [Emilie Brandt](https://github.com/emiliebrandt98)
